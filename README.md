@@ -72,10 +72,10 @@ It also helps in identifying market demand, skill trends, and job patterns using
 
 ```mermaid
 flowchart TD
-A[Data Collection] --> B[Data Cleaning & Preprocessing]
-B --> C[Exploratory Data Analysis (EDA)]
+A[Data Collection] --> B[Data Cleaning and Preprocessing]
+B --> C[Exploratory Data Analysis]
 C --> D[Feature Engineering]
-D --> E[Train–Test Split]
+D --> E[Train Test Split]
 E --> F[Feature Scaling]
 F --> G[Model Building]
 G --> H[Model Training]
@@ -94,7 +94,7 @@ I --> J[Prediction]
 - Education Level
 - Hiring Urgency
 
-# 👉 Machine Learning models require numerical input data.
+👉 Machine Learning models require numerical input data.
 
 # 📊 Exploratory Data Analysis (EDA
 )

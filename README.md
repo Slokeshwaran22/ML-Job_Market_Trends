@@ -1,11 +1,11 @@
 # 🤖 AI Job Market Trends Analysis & Prediction (ML Project)
-📌 Project Overview
+##📌 Project Overview
 
 This project focuses on analyzing AI Job Market Trends (2026 dataset) and building multiple Machine Learning models to understand and predict job-related outcomes.
 
 The project covers:
 
-Regression → Predicting Salary
+--Regression → Predicting Salary
 Classification → Predicting Hiring Urgency
 
 It also helps in identifying market demand, skill trends, and job patterns using data analysis.

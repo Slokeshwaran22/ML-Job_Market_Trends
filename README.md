@@ -6,13 +6,13 @@ This project focuses on analyzing AI Job Market Trends (2026 dataset) and buildi
 
 The project covers:
 
---**Regression** → Predicting Salary
-Classification → Predicting Hiring Urgency
+**Regression** → Predicting Salary
+**Classification** → Predicting Hiring Urgency
 
 It also helps in identifying market demand, skill trends, and job patterns using data analysis.
 
-🎯 Objectives
-Understand AI job market dataset
+#🎯 Objectives
+- *Understand AI job market dataset
 Perform data cleaning and preprocessing
 Analyze job trends using EDA
 Build multiple Machine Learning models

@@ -7,6 +7,7 @@ This project focuses on analyzing AI Job Market Trends (2026 dataset) and buildi
 The project covers:
 
 **Regression** → Predicting Salary
+
 **Classification** → Predicting Hiring Urgency
 
 It also helps in identifying market demand, skill trends, and job patterns using data analysis.
@@ -21,7 +22,7 @@ It also helps in identifying market demand, skill trends, and job patterns using
 - Predict salary and hiring urgency
 
 
-##🤖 Machine Learning Algorithms Used 
+# 🤖 Machine Learning Algorithms Used 
 
 ## 1️⃣ Linear Regression
 

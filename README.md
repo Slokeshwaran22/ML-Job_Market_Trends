@@ -35,8 +35,7 @@ It also helps in identifying market demand, skill trends, and job patterns using
 
 - Used for classification (Hiring Urgency)
 - Outputs categories:
-             Low / Medium → 0
-  
+             Low / Medium → 0, 
              High → 1 / 2
 - Uses sigmoid function for prediction
 
@@ -71,17 +70,18 @@ It also helps in identifying market demand, skill trends, and job patterns using
 
 ## 🔄 Project Workflow
 
-| Step | Process |
-|------|--------|
-| 1 | Data Collection |
-| 2 | Data Cleaning & Preprocessing |
-| 3 | Exploratory Data Analysis (EDA) |
-| 4 | Feature Engineering |
-| 5 | Train–Test Split |
-| 6 | Model Training |
-| 7 | Model Evaluation |
-| 8 | Prediction |
-
+```mermaid
+flowchart TD
+A[Data Collection] --> B[Data Cleaning & Preprocessing]
+B --> C[Exploratory Data Analysis (EDA)]
+C --> D[Feature Engineering]
+D --> E[Train–Test Split]
+E --> F[Feature Scaling]
+F --> G[Model Building]
+G --> H[Model Training]
+H --> I[Model Evaluation]
+I --> J[Prediction]
+```
 
 ## 🧹 Data Preprocessing
 
